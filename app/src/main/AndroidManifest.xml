@@ -43,7 +43,7 @@
         </activity>
 
         <service
-            android:name=".MyCustomTabsService"
+            android:name=".AppCustomTabsService"
             android:enabled="true"
             android:exported="true">
             <intent-filter>
